@@ -1,0 +1,19 @@
+{
+  "agent_family": "0g.f1",
+  "agent_family_role": "code",
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260707115950",
+  "changespec_name": "gh_bbugyi200__actstat",
+  "cl_name": "gh_bbugyi200__actstat",
+  "llm_provider": "codex",
+  "machine": "athena",
+  "model": "gpt-5.5",
+  "name": "athena.0g.f1--code",
+  "reasoning_effort": "xhigh",
+  "role_suffix": "--code",
+  "run_started_at": "2026-07-07T15:59:50.637178+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-07T16:09:39.707025+00:00",
+  "vcs_provider": "GitHub",
+  "workflow_name": "0g.f1"
+}

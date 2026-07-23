@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783440562,
+      "sha": "85fb6bcfbb9d4d3b354b0e18cd9bf0a2b2220726",
+      "subject": "feat!: show only the running workflow run"
+    }
+  ],
+  "schema_version": 1
+}

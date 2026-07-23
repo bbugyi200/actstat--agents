@@ -1,4 +1,21 @@
 {
-  "schema_version": 1,
-  "agents": {}
+  "agents": {
+    "athena.0g--code": {
+      "artifact_timestamp": "20260707114135",
+      "digest": "f9d1d8fe5bd48663de80bf605afa017845cd9c16171d248d1bb3da95df653490",
+      "machine": "athena",
+      "name": "athena.0g--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:50.295859+00:00"
+    },
+    "athena.0g.f1--code": {
+      "artifact_timestamp": "20260707115950",
+      "digest": "1338eb90505e01e0fce7b55affae909e5182c6a25c27d9cd34b4ca528b61c75e",
+      "machine": "athena",
+      "name": "athena.0g.f1--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:50.295859+00:00"
+    }
+  },
+  "schema_version": 1
 }
