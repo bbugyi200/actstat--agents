@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1783439989,"sha":"acfd00c98d4d09703de0d6b56b983592651fe257","subject":"chore: Add SDD prompt and plan for single_running_actions_run"},{"committed_at":1783440562,"sha":"85fb6bcfbb9d4d3b354b0e18cd9bf0a2b2220726","subject":"feat!: show only the running workflow run"}],"schema_version":2,"source_run_id":"run-1bcbe38f795e19f132c8a11e4daef2b9"}

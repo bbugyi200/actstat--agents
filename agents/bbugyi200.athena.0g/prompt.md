@@ -1,0 +1,1 @@
+#gh:bbugyi200/actstat This script currently shows the most recently completed Github actions run for each of my configured projects. Can you help me start also adding to the output any currently running but not yet complete Github actions runs for each configured project that is shown? #beau #plan #m_fable

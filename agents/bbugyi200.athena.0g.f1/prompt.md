@@ -1,0 +1,1 @@
+#gh:gh_bbugyi200__actstat #fork:0g Actually, can we just show the most recently started, running GitHub Actions run (if any) instead of showing all of them? Also, we shouldn't show "queued" GitHub Actions runs, only "running" GitHub Actions runs. #plan %a:tale
