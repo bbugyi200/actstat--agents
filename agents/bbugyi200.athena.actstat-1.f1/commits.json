@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782739460,"sha":"2cb728dc888ce5c05387e6cd0b3c273efa9c7235","subject":"chore: Add SDD prompt and plan for commit_centric_status"},{"committed_at":1782740540,"sha":"9ee3b40ce6cb241a62d679684f0a3cf6fe8b6523","subject":"feat!: report workflow status by settled commit"}],"schema_version":2,"source_run_id":"run-117a8c5e53de68f6cfda04ed00763310"}

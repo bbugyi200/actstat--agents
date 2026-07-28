@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782735724,"sha":"4f6963fcd5282ca062dd3d0fd01e66cacf9e3205","subject":"feat(github): collect workflow runs and failure detail (actstat-1.4)"},{"committed_at":1782735768,"sha":"069a5f3873b230b18e8c656fa16478fb7b064dcd","subject":"chore: close bead actstat-1.4 (Phase 4)"}],"schema_version":2,"source_run_id":"run-21864ed7894c987200ec1ef8ecff9112"}

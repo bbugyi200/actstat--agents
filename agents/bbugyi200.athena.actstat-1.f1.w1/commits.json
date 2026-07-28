@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782740793,"sha":"04f6f4867d6183074cb834c5a925edc139846b85","subject":"chore: Add SDD prompt and plan for github_actions_ci"},{"committed_at":1782741272,"sha":"8fb82db4d0bf5c2ca5a0728aaad5ccfcb630f7d5","subject":"ci: add GitHub Actions checks"}],"schema_version":2,"source_run_id":"run-43843f047ef85980f323be8571f4b14e"}

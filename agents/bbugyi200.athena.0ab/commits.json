@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782752023,"sha":"cd4096d48bbb7cadf9da68ac9ce132297906e5f1","subject":"chore: Add SDD prompt and plan for org_exclude_repos"},{"committed_at":1782752314,"sha":"31ce92d92a61276bc0b8dd102c047e2bc689b96d","subject":"feat(config): support org repository excludes"}],"schema_version":2,"source_run_id":"run-4526580bfc1d2a7bfb23f96fa966d4e7"}
