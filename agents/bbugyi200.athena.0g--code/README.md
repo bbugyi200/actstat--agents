@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d7497b2`](https://github.com/bbugyi200/actstat/commit/d7497b28720c4f16be5d36c92e7693b43db5e534) | feat: show active workflow runs | 2026-07-07 15:51:26 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`d7497b2`](https://github.com/bbugyi200/actstat/commit/d7497b28720c4f16be5d36c92e7693b43db5e534) | feat: show active workflow runs | 2026-07-07 11:51:26 EDT |
 
 ## Neighbors
 

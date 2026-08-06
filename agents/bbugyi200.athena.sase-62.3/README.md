@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`492d890`](https://github.com/bbugyi200/actstat/commit/492d89039b00a47a7403864103a8ddb727bef244) | chore: configure project research sidecar (sase-62.3) | 2026-07-15 13:25:07 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`492d890`](https://github.com/bbugyi200/actstat/commit/492d89039b00a47a7403864103a8ddb727bef244) | chore: configure project research sidecar (sase-62.3) | 2026-07-15 09:25:07 EDT |

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`797b7ab`](https://github.com/bbugyi200/actstat/commit/797b7ab2b214d9e5aced475db43d13a29445f7c9) | chore: Add SDD prompt and plan for fix\_ci\_rustfmt | 2026-06-29 14:04:02 |
-| [`6f7bb24`](https://github.com/bbugyi200/actstat/commit/6f7bb244104722a2d8fdef01db933968546b2985) | ci: pin rustfmt max width | 2026-06-29 14:06:27 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`797b7ab`](https://github.com/bbugyi200/actstat/commit/797b7ab2b214d9e5aced475db43d13a29445f7c9) | chore: Add SDD prompt and plan for fix\_ci\_rustfmt | 2026-06-29 10:04:02 EDT |
+| actstat | [`6f7bb24`](https://github.com/bbugyi200/actstat/commit/6f7bb244104722a2d8fdef01db933968546b2985) | ci: pin rustfmt max width | 2026-06-29 10:06:27 EDT |

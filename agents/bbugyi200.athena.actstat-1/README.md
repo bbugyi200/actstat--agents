@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1a62274`](https://github.com/bbugyi200/actstat/commit/1a622746d025afcc7c2168e181be283cb9ef4265) | chore: Add SDD prompt and plan for actstat\_1\_remaining | 2026-06-29 12:48:52 |
-| [`4bb0505`](https://github.com/bbugyi200/actstat/commit/4bb0505418a2c4529eefc3224bee3ecb51fb871d) | feat(output): add workflow run duration to model and output | 2026-06-29 12:56:33 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`1a62274`](https://github.com/bbugyi200/actstat/commit/1a622746d025afcc7c2168e181be283cb9ef4265) | chore: Add SDD prompt and plan for actstat\_1\_remaining | 2026-06-29 08:48:52 EDT |
+| actstat | [`4bb0505`](https://github.com/bbugyi200/actstat/commit/4bb0505418a2c4529eefc3224bee3ecb51fb871d) | feat(output): add workflow run duration to model and output | 2026-06-29 08:56:33 EDT |
 
 ## Neighbors
 

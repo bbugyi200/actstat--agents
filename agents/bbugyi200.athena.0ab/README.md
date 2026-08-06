@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cd4096d`](https://github.com/bbugyi200/actstat/commit/cd4096d48bbb7cadf9da68ac9ce132297906e5f1) | chore: Add SDD prompt and plan for org\_exclude\_repos | 2026-06-29 16:53:43 |
-| [`31ce92d`](https://github.com/bbugyi200/actstat/commit/31ce92d92a61276bc0b8dd102c047e2bc689b96d) | feat(config): support org repository excludes | 2026-06-29 16:58:34 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`cd4096d`](https://github.com/bbugyi200/actstat/commit/cd4096d48bbb7cadf9da68ac9ce132297906e5f1) | chore: Add SDD prompt and plan for org\_exclude\_repos | 2026-06-29 12:53:43 EDT |
+| actstat | [`31ce92d`](https://github.com/bbugyi200/actstat/commit/31ce92d92a61276bc0b8dd102c047e2bc689b96d) | feat(config): support org repository excludes | 2026-06-29 12:58:34 EDT |

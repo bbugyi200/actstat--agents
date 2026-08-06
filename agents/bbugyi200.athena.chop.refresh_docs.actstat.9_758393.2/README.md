@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`49e1262`](https://github.com/bbugyi200/actstat/commit/49e1262fcde7e774a8ee168d9110c9199e658fb1) | docs: clarify setup and reporting terminology | 2026-07-19 15:10:45 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`49e1262`](https://github.com/bbugyi200/actstat/commit/49e1262fcde7e774a8ee168d9110c9199e658fb1) | docs: clarify setup and reporting terminology | 2026-07-19 11:10:45 EDT |
 
 ## Neighbors
 

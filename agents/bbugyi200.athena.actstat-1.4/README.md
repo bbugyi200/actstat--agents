@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4f6963f`](https://github.com/bbugyi200/actstat/commit/4f6963fcd5282ca062dd3d0fd01e66cacf9e3205) | feat(github): collect workflow runs and failure detail (actstat-1.4) | 2026-06-29 12:22:04 |
-| [`069a5f3`](https://github.com/bbugyi200/actstat/commit/069a5f3873b230b18e8c656fa16478fb7b064dcd) | chore: close bead actstat-1.4 (Phase 4) | 2026-06-29 12:22:48 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`4f6963f`](https://github.com/bbugyi200/actstat/commit/4f6963fcd5282ca062dd3d0fd01e66cacf9e3205) | feat(github): collect workflow runs and failure detail (actstat-1.4) | 2026-06-29 08:22:04 EDT |
+| actstat | [`069a5f3`](https://github.com/bbugyi200/actstat/commit/069a5f3873b230b18e8c656fa16478fb7b064dcd) | chore: close bead actstat-1.4 (Phase 4) | 2026-06-29 08:22:48 EDT |
 
 ## Neighbors
 

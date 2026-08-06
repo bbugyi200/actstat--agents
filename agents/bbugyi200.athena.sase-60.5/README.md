@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ce4008f`](https://github.com/bbugyi200/actstat/commit/ce4008fcc890398ea897f9f51e5fed0fdbd66a6a) | chore(sase): declare the managed plans sidecar | 2026-07-14 16:42:23 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`ce4008f`](https://github.com/bbugyi200/actstat/commit/ce4008fcc890398ea897f9f51e5fed0fdbd66a6a) | chore(sase): declare the managed plans sidecar | 2026-07-14 12:42:23 EDT |

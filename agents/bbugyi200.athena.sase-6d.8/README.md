@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`797f609`](https://github.com/bbugyi200/actstat/commit/797f609027d22907e221adc09b49fb22333c35dc) | chore: refresh memory directory map (sase-6d.8) | 2026-07-16 19:52:14 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`797f609`](https://github.com/bbugyi200/actstat/commit/797f609027d22907e221adc09b49fb22333c35dc) | chore: refresh memory directory map (sase-6d.8) | 2026-07-16 15:52:14 EDT |
 
 ## Neighbors
 

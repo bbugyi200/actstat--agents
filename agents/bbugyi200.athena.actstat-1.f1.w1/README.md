@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`04f6f48`](https://github.com/bbugyi200/actstat/commit/04f6f4867d6183074cb834c5a925edc139846b85) | chore: Add SDD prompt and plan for github\_actions\_ci | 2026-06-29 13:46:33 |
-| [`8fb82db`](https://github.com/bbugyi200/actstat/commit/8fb82db4d0bf5c2ca5a0728aaad5ccfcb630f7d5) | ci: add GitHub Actions checks | 2026-06-29 13:54:32 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`04f6f48`](https://github.com/bbugyi200/actstat/commit/04f6f4867d6183074cb834c5a925edc139846b85) | chore: Add SDD prompt and plan for github\_actions\_ci | 2026-06-29 09:46:33 EDT |
+| actstat | [`8fb82db`](https://github.com/bbugyi200/actstat/commit/8fb82db4d0bf5c2ca5a0728aaad5ccfcb630f7d5) | ci: add GitHub Actions checks | 2026-06-29 09:54:32 EDT |
 
 ## Neighbors
 

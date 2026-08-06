@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5f5acdf`](https://github.com/bbugyi200/actstat/commit/5f5acdf4da30fa0a92973271a1d77ef3587dfffe) | feat(github): add GitHub client, auth, and org expansion (actstat-1.3) | 2026-06-29 12:04:26 |
-| [`e67754c`](https://github.com/bbugyi200/actstat/commit/e67754c92143dbfc7bd599211ba77ca090d65f0e) | chore: close bead actstat-1.3 (Phase 3) | 2026-06-29 12:06:28 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`5f5acdf`](https://github.com/bbugyi200/actstat/commit/5f5acdf4da30fa0a92973271a1d77ef3587dfffe) | feat(github): add GitHub client, auth, and org expansion (actstat-1.3) | 2026-06-29 08:04:26 EDT |
+| actstat | [`e67754c`](https://github.com/bbugyi200/actstat/commit/e67754c92143dbfc7bd599211ba77ca090d65f0e) | chore: close bead actstat-1.3 (Phase 3) | 2026-06-29 08:06:28 EDT |
 
 ## Neighbors
 

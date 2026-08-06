@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c3721cb`](https://github.com/bbugyi200/actstat/commit/c3721cb312c114069752a8a171ee05933d8fd6cb) | docs: clarify CLI and output edge cases | 2026-07-19 15:04:44 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`c3721cb`](https://github.com/bbugyi200/actstat/commit/c3721cb312c114069752a8a171ee05933d8fd6cb) | docs: clarify CLI and output edge cases | 2026-07-19 11:04:44 EDT |
 
 ## Neighbors
 

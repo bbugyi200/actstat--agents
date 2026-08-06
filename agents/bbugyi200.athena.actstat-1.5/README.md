@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`33f3905`](https://github.com/bbugyi200/actstat/commit/33f390528948824f573ef562e052dd70e9b3abca) | feat(output): wire real collection and polish list output (actstat-1.5) | 2026-06-29 12:36:37 |
-| [`feb5481`](https://github.com/bbugyi200/actstat/commit/feb548123108c6ebaf4d9c07e9edf3a5baaf482b) | chore: close bead actstat-1.5 (Phase 5) | 2026-06-29 12:37:25 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`33f3905`](https://github.com/bbugyi200/actstat/commit/33f390528948824f573ef562e052dd70e9b3abca) | feat(output): wire real collection and polish list output (actstat-1.5) | 2026-06-29 08:36:37 EDT |
+| actstat | [`feb5481`](https://github.com/bbugyi200/actstat/commit/feb548123108c6ebaf4d9c07e9edf3a5baaf482b) | chore: close bead actstat-1.5 (Phase 5) | 2026-06-29 08:37:25 EDT |
 
 ## Neighbors
 

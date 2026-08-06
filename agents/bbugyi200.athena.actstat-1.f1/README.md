@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2cb728d`](https://github.com/bbugyi200/actstat/commit/2cb728dc888ce5c05387e6cd0b3c273efa9c7235) | chore: Add SDD prompt and plan for commit\_centric\_status | 2026-06-29 13:24:20 |
-| [`9ee3b40`](https://github.com/bbugyi200/actstat/commit/9ee3b40ce6cb241a62d679684f0a3cf6fe8b6523) | feat!: report workflow status by settled commit | 2026-06-29 13:42:20 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`2cb728d`](https://github.com/bbugyi200/actstat/commit/2cb728dc888ce5c05387e6cd0b3c273efa9c7235) | chore: Add SDD prompt and plan for commit\_centric\_status | 2026-06-29 09:24:20 EDT |
+| actstat | [`9ee3b40`](https://github.com/bbugyi200/actstat/commit/9ee3b40ce6cb241a62d679684f0a3cf6fe8b6523) | feat!: report workflow status by settled commit | 2026-06-29 09:42:20 EDT |
 
 ## Neighbors
 

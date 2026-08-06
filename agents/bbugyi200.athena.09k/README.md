@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f3cd61a`](https://github.com/bbugyi200/actstat/commit/f3cd61af2734fe206a48348b6375629b6f8048f5) | chore: Add SDD prompt and plan for actstat\_init\_4 | 2026-06-29 11:19:03 |
-| [`6ed8fcd`](https://github.com/bbugyi200/actstat/commit/6ed8fcd52854279c486186a64eb9aa9b5fcda2c8) | chore: link actstat init epic bead | 2026-06-29 11:21:43 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`f3cd61a`](https://github.com/bbugyi200/actstat/commit/f3cd61af2734fe206a48348b6375629b6f8048f5) | chore: Add SDD prompt and plan for actstat\_init\_4 | 2026-06-29 07:19:03 EDT |
+| actstat | [`6ed8fcd`](https://github.com/bbugyi200/actstat/commit/6ed8fcd52854279c486186a64eb9aa9b5fcda2c8) | chore: link actstat init epic bead | 2026-06-29 07:21:43 EDT |

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`23de539`](https://github.com/bbugyi200/actstat/commit/23de53928ae0cce80dda3603bed51a120ace1720) | chore: migrate SASE project content to canonical paths (sase-6d.6) | 2026-07-16 18:26:26 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`23de539`](https://github.com/bbugyi200/actstat/commit/23de53928ae0cce80dda3603bed51a120ace1720) | chore: migrate SASE project content to canonical paths (sase-6d.6) | 2026-07-16 14:26:26 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`729ef5a`](https://github.com/bbugyi200/actstat/commit/729ef5a14d255492e982e3c7708d87793f5df29e) | feat(config): add configuration model and source resolution (actstat-1.2) | 2026-06-29 11:51:52 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`729ef5a`](https://github.com/bbugyi200/actstat/commit/729ef5a14d255492e982e3c7708d87793f5df29e) | feat(config): add configuration model and source resolution (actstat-1.2) | 2026-06-29 07:51:52 EDT |
 
 ## Neighbors
 

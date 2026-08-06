@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`85fb6bc`](https://github.com/bbugyi200/actstat/commit/85fb6bcfbb9d4d3b354b0e18cd9bf0a2b2220726) | feat!: show only the running workflow run | 2026-07-07 16:09:22 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`85fb6bc`](https://github.com/bbugyi200/actstat/commit/85fb6bcfbb9d4d3b354b0e18cd9bf0a2b2220726) | feat!: show only the running workflow run | 2026-07-07 12:09:22 EDT |
 
 ## Neighbors
 

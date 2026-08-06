@@ -11,7 +11,7 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-07T15:34:46.343978+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -19,10 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3a19944`](https://github.com/bbugyi200/actstat/commit/3a19944c2b33285bb411fa0bc20b7ef2be049655) | chore: Add SDD prompt and plan for active\_runs | 2026-07-07 15:41:34 |
-| [`d7497b2`](https://github.com/bbugyi200/actstat/commit/d7497b28720c4f16be5d36c92e7693b43db5e534) | feat: show active workflow runs | 2026-07-07 15:51:26 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`3a19944`](https://github.com/bbugyi200/actstat/commit/3a19944c2b33285bb411fa0bc20b7ef2be049655) | chore: Add SDD prompt and plan for active\_runs | 2026-07-07 11:41:34 EDT |
 
 ## Neighbors
 

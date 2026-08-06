@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`587f1ea`](https://github.com/bbugyi200/actstat/commit/587f1ea95fccdb1ea9f3d1b8d6dc5c4a569e5de5) | docs: write comprehensive README and run final verification (actstat-1.6) | 2026-06-29 12:43:22 |
-| [`4a75eee`](https://github.com/bbugyi200/actstat/commit/4a75eee0c553a6fec7068a87a79faa47e807c26c) | chore: close bead actstat-1.6 (Phase 6) | 2026-06-29 12:44:15 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`587f1ea`](https://github.com/bbugyi200/actstat/commit/587f1ea95fccdb1ea9f3d1b8d6dc5c4a569e5de5) | docs: write comprehensive README and run final verification (actstat-1.6) | 2026-06-29 08:43:22 EDT |
+| actstat | [`4a75eee`](https://github.com/bbugyi200/actstat/commit/4a75eee0c553a6fec7068a87a79faa47e807c26c) | chore: close bead actstat-1.6 (Phase 6) | 2026-06-29 08:44:15 EDT |
 
 ## Neighbors
 

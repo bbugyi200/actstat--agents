@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1d3acc6`](https://github.com/bbugyi200/actstat/commit/1d3acc66c81c6e3e40759c8ebbbf5f3b1a853942) | docs: refresh generated memory layout guidance (sase-6d.7) | 2026-07-16 19:17:46 |
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| actstat | [`1d3acc6`](https://github.com/bbugyi200/actstat/commit/1d3acc66c81c6e3e40759c8ebbbf5f3b1a853942) | docs: refresh generated memory layout guidance (sase-6d.7) | 2026-07-16 15:17:46 EDT |
 
 ## Neighbors
 
