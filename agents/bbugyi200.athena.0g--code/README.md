@@ -1,6 +1,6 @@
 # Agent: 0g--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0g](../../users/bbugyi200/machines/athena/hoods/0g/README.md) / [0g](../../families/bbugyi200.athena.0g.md) / 0g--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0g](../../users/bbugyi200/machines/athena/hoods/0g/README.md) / [0g](../../sessions/bbugyi200.athena.0g.md) / 0g--code
 
 **Global name:** `bbugyi200.athena.0g--code` · **State:** completed · **Source run:** `run-90bf6c4146ddf34b899f55e37971c701`
 
@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| actstat | [`d7497b2`](https://github.com/bbugyi200/actstat/commit/d7497b28720c4f16be5d36c92e7693b43db5e534) | feat: show active workflow runs | 2026-07-07 11:51:26 EDT |
+| — | `d7497b2` | feat: show active workflow runs | 2026-07-07 11:51:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0g.f1](../../families/bbugyi200.athena.0g.f1.md) (family · 2) | descendant | active 1, completed 1 |
+| [0g.f1](../../sessions/bbugyi200.athena.0g.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
