@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| actstat | [`49e1262`](https://github.com/bbugyi200/actstat/commit/49e1262fcde7e774a8ee168d9110c9199e658fb1) | docs: clarify setup and reporting terminology | 2026-07-19 11:10:45 EDT |
+| — | `49e1262` | docs: clarify setup and reporting terminology | 2026-07-19 11:10:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.actstat.9\_758393.1](../bbugyi200.athena.chop.refresh_docs.actstat.9_758393.1/README.md) | chop.refresh\_docs.actstat.9\_758393 hood | active |
-| [chop.refresh\_docs.actstat.1](../bbugyi200.athena.chop.refresh_docs.actstat.1/README.md) | chop.refresh\_docs.actstat hood | active |
-| [chop.refresh\_docs.actstat.1\_039216.1](../bbugyi200.athena.chop.refresh_docs.actstat.1_039216.1/README.md) | chop.refresh\_docs.actstat hood | active |
-| [chop.refresh\_docs.actstat.1\_039216.2](../bbugyi200.athena.chop.refresh_docs.actstat.1_039216.2/README.md) | chop.refresh\_docs.actstat hood | active |
-| [chop.refresh\_docs.actstat.2](../bbugyi200.athena.chop.refresh_docs.actstat.2/README.md) | chop.refresh\_docs.actstat hood | active |
+| [chop.refresh\_docs.actstat.9\_758393.1](../bbugyi200.athena.chop.refresh_docs.actstat.9_758393.1/README.md) | chop.refresh\_docs.actstat.9\_758393 hood | dismissed |
+| [chop.refresh\_docs.actstat.1](../bbugyi200.athena.chop.refresh_docs.actstat.1/README.md) | chop.refresh\_docs.actstat hood | dismissed |
+| [chop.refresh\_docs.actstat.1\_039216.1](../bbugyi200.athena.chop.refresh_docs.actstat.1_039216.1/README.md) | chop.refresh\_docs.actstat hood | dismissed |
+| [chop.refresh\_docs.actstat.1\_039216.2](../bbugyi200.athena.chop.refresh_docs.actstat.1_039216.2/README.md) | chop.refresh\_docs.actstat hood | dismissed |
+| [chop.refresh\_docs.actstat.2](../bbugyi200.athena.chop.refresh_docs.actstat.2/README.md) | chop.refresh\_docs.actstat hood | dismissed |
